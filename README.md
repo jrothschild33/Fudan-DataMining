@@ -1,0 +1,2 @@
+# FudanUniversity-DataMining
+2020 Spring Fudan University Data Mining Course HW by prof. Zhu Xuening. 复旦大学大数据学院2020年春季课程-数据挖掘（DATA620007）包含数据挖掘算法模型：Linear Regression Model、Logistic Regression Model、Linear Discriminant Analysis、K-Nearest Neighbour、Naive Bayes Classifier、Decision Tree Model、AdaBoost、Gradient Boosting Decision Tree(GBDT)、XGBoost、Random Forest Model、Support Vector Machine、Principal Component Analysis(PCA)
